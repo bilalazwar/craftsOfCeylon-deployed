@@ -13,6 +13,7 @@ function App() {
       <Routes>      {/* like a container to have all the child route, can omit this if have only 1 route*/}
 
           <Route index element={<Home/>}/>
+          <Route path='*' element={<Home/>}/>
 
           {/* <Route path="*" element={<GIve NOT FOUND/>}/> */}
           
