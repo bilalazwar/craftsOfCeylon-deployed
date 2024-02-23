@@ -2,8 +2,8 @@
 
 import './App.css';   // app.css is a global styling.. when i Removed my Home page didn't display
 import React from "react";
-import { BrowserRouter, HashRouter, Route, Routes} from 'react-router-dom'    // needed to install before writing this code ["npm install react-router-dom"]
-import Home from './page/Home';
+import { HashRouter, Route, Routes} from 'react-router-dom'    // needed to install before writing this code ["npm install react-router-dom"]
+import Home from './pages/Home';
 
 
 function App() {
