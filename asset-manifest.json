@@ -1,15 +1,29 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.f855e6bc.css",
-    "main.js": "/project/static/js/main.3a11f937.js",
+    "main.css": "/project/static/css/main.0dd77c01.css",
+    "main.js": "/project/static/js/main.51b706ff.js",
     "static/js/453.773b7330.chunk.js": "/project/static/js/453.773b7330.chunk.js",
+    "static/media/basket.png": "/project/static/media/basket.2b14f9e584e43ed0eba9.png",
+    "static/media/woodWorkCategory.png": "/project/static/media/woodWorkCategory.ccb1bd9c43eaccd3d9c9.png",
+    "static/media/potteryCategory.png": "/project/static/media/potteryCategory.3e77cf78ec93bcff8ad1.png",
+    "static/media/maskCategory.png": "/project/static/media/maskCategory.6a5c95f39a5ae0ff07d9.png",
+    "static/media/p6.png": "/project/static/media/p6.1a692c76aa057447cbce.png",
+    "static/media/p1.png": "/project/static/media/p1.f3dd63f3da09c25aadce.png",
+    "static/media/bambooCraftCategory.png": "/project/static/media/bambooCraftCategory.c2b9677e17756a7990b5.png",
+    "static/media/p5.png": "/project/static/media/p5.cf51a97208c191db4649.png",
+    "static/media/sarongCategory.png": "/project/static/media/sarongCategory.cc070c8e5bfb84023a71.png",
+    "static/media/p7.png": "/project/static/media/p7.f0f29839475381cd6f13.png",
+    "static/media/p3.png": "/project/static/media/p3.c5e5d3e948d96242464f.png",
+    "static/media/p4.png": "/project/static/media/p4.7bd2a08fa885194b85a0.png",
+    "static/media/p2.png": "/project/static/media/p2.51db13072deedec5d02e.png",
+    "static/media/metalworkCategory.png": "/project/static/media/metalworkCategory.8e100e529ce46c71d64a.png",
     "index.html": "/project/index.html",
-    "main.f855e6bc.css.map": "/project/static/css/main.f855e6bc.css.map",
-    "main.3a11f937.js.map": "/project/static/js/main.3a11f937.js.map",
+    "main.0dd77c01.css.map": "/project/static/css/main.0dd77c01.css.map",
+    "main.51b706ff.js.map": "/project/static/js/main.51b706ff.js.map",
     "453.773b7330.chunk.js.map": "/project/static/js/453.773b7330.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3a11f937.js"
+    "static/css/main.0dd77c01.css",
+    "static/js/main.51b706ff.js"
   ]
 }
